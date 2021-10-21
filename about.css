@@ -1,0 +1,9 @@
+table {
+    display: inline-flex;
+    background-color: whitesmoke;
+    align-items: center;
+    justify-items: center;
+  }
+  th {
+    padding: 5px 21px 3px 21px;
+  }
