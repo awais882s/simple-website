@@ -1,5 +1,5 @@
 table {
-  display: inline-table;
+  display: inline-flex;
   background-color: whitesmoke;
   align-items: center;
   justify-items: center;
